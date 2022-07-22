@@ -1,2 +1,2 @@
 # Heart Dysrhythmia Prediction
-Prediction and classification of Heart Dysrhythmia using machine learning 
+Prediction and classification of Heart Dysrhythmia using machine learning algorithm 
